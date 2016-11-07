@@ -15,5 +15,17 @@ Pas besoin de changer les droits sur les scripts ;)
 ## Etape 1
 ### Script reparer_reseau.sh
 Permet de corriger le bug de gestion des cartes Ethernet par NetworkManager sous Linux Mint 18.
+
 Merci systemd :-(
 
+## Etape 2
+### Script deploy_firefox.sh
+Permet de déployer le profil modifié de Firefox depuis le serveur PXE, sur les postes des visiteurs.
+
+Note : Il faut renseigner plusieurs fois le mot de passe de l'utilisateur, ce qui est normal.
+
+## Etape 3
+### Script deploy_applications.sh
+Permet de déployer les applications supplémentaires sur les postes des visiteurs.
+
+Note : Il est conseillé de redémarrer pour terminer la configuration de l'outil `clipit` .
