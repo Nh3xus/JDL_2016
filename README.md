@@ -1,2 +1,2 @@
 # JDL_2016
-Linux Mint tweaks
+Ce dépôt contient les scripts de déploiement pour Linux Mint 18.
