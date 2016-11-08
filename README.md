@@ -14,6 +14,7 @@ Pas besoin de changer les droits sur les scripts ;)
 
 ## Etape 1
 ### Script reparer_reseau.sh
+Exécuter le script puis **mettre à jour le système.**
 Permet de corriger le bug de gestion des cartes Ethernet par NetworkManager sous Linux Mint 18.
 
 Merci systemd :-(
