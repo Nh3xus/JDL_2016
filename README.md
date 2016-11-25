@@ -24,6 +24,8 @@ Merci systemd :-(
 ### Script deploy_firefox.sh
 Permet de déployer le profil modifié de Firefox depuis le serveur PXE, sur les postes des visiteurs.
 
+Permet également d'ajouter les templates de LibreOffice.
+
 Note : Il faut renseigner plusieurs fois le mot de passe de l'utilisateur, ce qui est normal.
 
 ## Etape 3
