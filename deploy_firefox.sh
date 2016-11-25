@@ -37,7 +37,7 @@ else
 	sleep 1;
 	echo "Transferring LibreOffice templates...";
 	sleep 1;
-	cp -R  $HOME/NFS_TEMP/JDL/LibreOffice/* "$HOME/Modèles";
+	cp -R  $HOME/NFS_TEMP/JDL/LibreOffice/* "$HOME/Modèles/";
 	chown -R $USER:$USER "$HOME/Modèles";
 	printf "Done.\nUnmounting NFS Share.\n";
 	sleep 1;
